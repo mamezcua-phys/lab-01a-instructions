@@ -17,3 +17,13 @@
 1) `git status` to confirm staged changes.
 1) `git commit -m "add comment here"` to commit locally and add comment mentioning the change. 
 1) `git push origin master` to push to the master branch. 
+
+# Markdown 
+## It is great to use!
+Names | Hobbies
+:--|--:
+Mark | Cycling
+Dolores | Running
+John | Netflix 
+
+I like using **BOLD** texts and __italicized__ texts too. 
