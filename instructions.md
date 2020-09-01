@@ -1,4 +1,4 @@
-1) Firt, you should make a repo with a README.md file.
+1) First, you should make a repo with a README.md file.
 1) Then, you should `git clone` that repo, using the URL from the Clone button.
 1) Then, you should `cd /alchemy/lab-01a-instructions`
 1) Use `mkdir` and `touch` to create the following structure. 
@@ -26,4 +26,4 @@ Mark | Cycling
 Dolores | Running
 John | Netflix 
 
-I like using **BOLD** texts and __italicized__ texts too. 
+I like using **BOLD** texts and _italicized_ texts too. 
