@@ -1,1 +1,1 @@
-Hello everyone! How has your day been?
+Hello there!
